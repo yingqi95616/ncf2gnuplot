@@ -1,11 +1,4 @@
-      program relative_contr
-c******************************************************************************
-c
-c The relative contribution of different VOC sources to NO -> NO2 conversion.
-c
-c Written by: Qi Ying
-c
-c******************************************************************************
+      program ncf2gnuplot
       implicit none
 
 c ioapi headers
